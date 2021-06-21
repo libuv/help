@@ -1,7 +1,11 @@
 # libuv/help
 
 Have a question about libuv?  Need help with your code?  Looking for moral
-support?  Go to https://github.com/libuv/help/issues/new and open an issue.
+support? \
+*THEN THIS IS NOT THE RIGHT PLACE ANYMORE,* \
+although you can still view old questions and answers.
+
+Go to https://github.com/libuv/libuv/discussions and open a new discussion.
 
 Documentation:
 
